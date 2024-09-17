@@ -1,0 +1,4 @@
+﻿[Rustoria.co - EU Main], [main.rustoria.uk:28010], [9255283]
+[Rustoria.co - US Main], [vanilla.rustoria.us:28010], [6324892]
+[Rustoria.co - EU Long], [208.103.169.247:28010], [9594571]
+[Reddit.com - EU Medium], [45.88.230.81:28013], [3591957]
